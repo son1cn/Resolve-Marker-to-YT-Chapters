@@ -7,4 +7,7 @@ This repo is a simple Powershell script (resolve-to-YT-chapters.ps1) that takes 
 Resolve marker export .csv files in \input-csv\
 
 ### Output
-.txt file(s) with 'Source In' (with milliseconds cut out) and 'Notes' ready for easy Copy-Paste to your YouTube video description
+.txt file(s) in \output-txt\ with:
+  'Source In' (with milliseconds cut out)
+  'Notes' 
+Ready for easy Copy-Paste to your YouTube video description
